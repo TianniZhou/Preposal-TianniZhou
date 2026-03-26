@@ -1,4 +1,4 @@
-# Proposal
+# Preposal
 
 ## What idea(s) do you have for your final project?
 
