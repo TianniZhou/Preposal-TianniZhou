@@ -3,7 +3,7 @@
 ## What idea(s) do you have for your final project?
 
 
-Collect data from Amadeus API. Sending everyday's email which contains a complete excel form containing all the history data and creating a graph of price trend, price warning if needed, the best option of the day, and the API link if you want to check it by yourself. The program is designed to automatically read everyday Delta website at a specific time, store new data into an excel, create a price trend based on the history data covering the old trend graph, calculate the best recommended option if purchasing today, based on some criteria which will be set to do option's price's warning.(This is the BETTER outcome criteria.)
+Automatic email system to help flight ticket purchase by sending the best option reccommendation and an excel of all the option's risk score and opportunity score.(This is the BETTER outcome criteria.)
 
 
 
