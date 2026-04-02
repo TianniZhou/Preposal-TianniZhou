@@ -5,7 +5,7 @@
 --Automatic email system to help flight ticket purchase
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
---Automatic email system to help flight ticket purchase by sending the best option reccommendation and an excel of all the option's risk score and opportunity score
+--Automatic email system to help flight ticket purchase by sending the best option reccommendation and an excel of all the option's risk score and opportunity score.
 
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
