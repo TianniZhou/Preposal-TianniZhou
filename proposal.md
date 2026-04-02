@@ -5,7 +5,7 @@
 --Automatic email system to help flight ticket purchase
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
---Automatic email sending to help flight ticket purchase by sending the best option reccommendation and an excel of all the option's risk score and opportunity score.(BETTER Outcome)
+--Collect flight data from Amadeus API and send an email of the best reccommendation by calculating all the options's risk score and opportunity score(which I need to design the function).
 
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
@@ -24,11 +24,11 @@
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
---Read an excel of flight info and send email of best reccommendation by calculating all the options's risk score and opportunity score(which I need to design the function).
+--Read an excel of flight info and send an email of best reccommendation by calculating all the options's risk score and opportunity score(which I need to design the function).
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
---Collect flight data from Amadeus API and send email of best reccommendation by calculating all the options's risk score and opportunity score(which I need to design the function).
+--Collect flight data from Amadeus API and send an email of best reccommendation by calculating all the options's risk score and opportunity score(which I need to design the function).
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
